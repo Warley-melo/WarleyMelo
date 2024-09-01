@@ -1,0 +1,95 @@
+#topo{
+    
+    border: 0px;
+    height: 100px;
+    
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+body{
+    background-color: rgb(231, 207, 217);
+    
+    
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+    font-size: 20px;
+    margin:0;
+    padding:0;
+    width:100%;
+    
+   
+    
+}
+li a{
+   float: right;      
+    padding:14px 16px;
+    text-decoration:none;
+    /*Ajusta a posição do menu referente a pagina*/
+}
+
+ul :hover{
+    font-size:35px;
+    
+/*aumenta a fonte ao passar o mouse em cima das palavras*/    
+    
+    
+    
+}
+
+
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    
+    
+
+}
+
+
+h2{
+    Font-size:50px;
+    text-align: center;
+}
+
+
+p{
+    font-size:20px;
+}
+
+
+
+
+
+h3{
+    font-size: 50px;
+    text-align: center;
+}
+
+.container{
+    border-color: black;
+    border-style: double;
+   text-align: justify;
+}
+
+
+.container1{
+    border-style: double;
+    border-color: black;
+    text-align: justify;
+    font-size: 30px;
+    
+    
+}
+p1{
+    font-size: 30px;
+}
+
+p2{
+    font-size: 30px;
+}
+
